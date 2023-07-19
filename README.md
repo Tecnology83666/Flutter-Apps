@@ -11,10 +11,8 @@ The app utilizes Riverpod for state management. State is stored and updated thro
 ### Video tutorial: https://atomsbox.com
 
 ## App Screenshots: 
-| ![Travel Routes App 3](screenshots/travel_routes_3.png) | ![Travel Routes App 2](screenshots/travel_routes_2.png) |
+| ![Travel Routes App 3](travel_routes_with_google_maps_riverpod_and_flutter_animate_starter_code/screenshots/travel_routes_3.png) | ![Travel Routes App 2](travel_routes_with_google_maps_riverpod_and_flutter_animate_starter_code/screenshots/travel_routes_2.png) |
 |:---:|:---:|
 | Home Screen with City Selection | Destination Screen with City Information | 
-| ![Travel Routes App 1](screenshots/travel_routes_1.png) | ![Travel Routes App 4](screenshots/travel_routes_4.png) |
+| ![Travel Routes App 1](travel_routes_with_google_maps_riverpod_and_flutter_animate_starter_code/screenshots/travel_routes_1.png) | ![Travel Routes App 4](travel_routes_with_google_maps_riverpod_and_flutter_animate_starter_code/screenshots/travel_routes_4.png) |
 | Points of Interest Screen | Map Screen with Navigation Details |
-
-
