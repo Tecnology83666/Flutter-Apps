@@ -12,12 +12,13 @@ The project will receive future updates including adding backend functionality f
 ### Video tutorial: https://youtu.be/eLCUDRvDkoE
 
 ## App Screenshots: 
-| ![Login](screenshots/grocery_shopping_app_login.png) | ![Home](screenshots/grocery_shopping_app_home.png) |
-|:---:|:---:|
-| Login Screen | Home Screen |
-| ![Cart](screenshots/grocery_shopping_app_cart.png) | ![Order History](screenshots/grocery_shopping_app_order_history.png) |
+|![Intro](screenshots/intro.png) | ![Login](screenshots/grocery_shopping_app_login.png) | ![Home](screenshots/grocery_shopping_app_home.png) |
 |:---:|:---:|:---:|
-| Cart Screen | Order History Screen|
+| Welcome Screen | Login Screen | Home Screen |
+| ![Search](screenshots/search.png) | ![Cart](screenshots/grocery_shopping_app_cart.png) | ![Order History](screenshots/grocery_shopping_app_order_history.png) |
+|:---:|:---:|:---:|
+| Search Screen | Cart Screen | Order History Screen|
+
 
 # Travel Routes App with Flutter, Google Maps, Riverpod and flutter_animate
 The app leverages Google Maps Platform, creating a robust travel tool. It integrates with Google Maps, displaying user-specific locations and routes and providing real-time geolocation services via the 'geolocator' package. Geocoding API translates coordinates into user-friendly addresses. Detailed location information, including photos and operating hours, is accessible thanks to Places API integration. Users can get routes and directions with Routes API. 
