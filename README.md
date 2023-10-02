@@ -12,10 +12,10 @@ The project will receive future updates including adding backend functionality f
 ### Video tutorial: https://youtu.be/eLCUDRvDkoE
 
 ## App Screenshots: 
-|![Intro](screenshots/intro.png) | ![Login](screenshots/grocery_shopping_app_login.png) | ![Home](screenshots/grocery_shopping_app_home.png) |
+|![Intro](screenshots/grocery_shopping_app_intro.png) | ![Login](screenshots/grocery_shopping_app_login.png) | ![Home](screenshots/grocery_shopping_app_home.png) |
 |:---:|:---:|:---:|
 | Welcome Screen | Login Screen | Home Screen |
-| ![Search](screenshots/search.png) | ![Cart](screenshots/grocery_shopping_app_cart.png) | ![Order History](screenshots/grocery_shopping_app_order_history.png) |
+| ![Search](screenshots/grocery_shopping_app_search.png) | ![Cart](screenshots/grocery_shopping_app_cart.png) | ![Order History](screenshots/grocery_shopping_app_order_history.png) |
 |:---:|:---:|:---:|
 | Search Screen | Cart Screen | Order History Screen|
 
