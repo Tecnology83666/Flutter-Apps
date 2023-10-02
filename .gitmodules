@@ -1,6 +1,3 @@
-[submodule "travel_routes_with_google_maps_riverpod_and_flutter_animate_starter_code"]
-	path = travel_routes_with_google_maps_riverpod_and_flutter_animate_starter_code
-	url = https://github.com/maxonflutter/travel_routes_with_google_maps_riverpod_and_flutter_animate_starter_code
 [submodule "Grocery-Shopping-App-with-Flutter-Dart-Frog"]
 	path = Grocery-Shopping-App-with-Flutter-Dart-Frog
 	url = https://github.com/maxonflutter/Grocery-Shopping-App-with-Flutter-Dart-Frog
