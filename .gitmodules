@@ -4,3 +4,9 @@
 [submodule "Travel-App-with-Flutter-Google-Maps-Platform"]
 	path = Travel-App-with-Flutter-Google-Maps-Platform
 	url = https://github.com/maxonflutter/Travel-App-with-Flutter-Google-Maps-Platform
+[submodule "X-Clone-with-Flutter-and-Serverpod"]
+	path = X-Clone-with-Flutter-and-Serverpod
+	url = https://github.com/maxonflutter/X-Clone-with-Flutter-and-Serverpod.git
+[submodule "AirBnB_Clone_with_Flutter_Dart_Frog"]
+	path = AirBnB_Clone_with_Flutter_Dart_Frog
+	url = https://github.com/maxonflutter/AirBnB_Clone_with_Flutter_Dart_Frog.git
